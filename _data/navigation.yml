@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Academe"
-    url: /talks/    
+    url: /academe/    
     
   - title: "OxEO"
-    url: /portfolio/
+    url: http://www.oxfordeo.com
     
   - title: "CV"
-    url: /cv/
+    url: http://Lkruitwagen.github.io/files/Kruitwagen_Lucas_CV.pdf
