@@ -2,12 +2,22 @@
 main:
   - title: "Publications"
     url: /publications/
+    align: right
+    float: right
 
   - title: "Academe"
-    url: /academe/    
-    
-  - title: "OxEO"
-    url: http://www.oxfordeo.com
-    
+    url: /academe/ 
+    align: right
+    float: right
+
   - title: "CV"
-    url: http://Lkruitwagen.github.io/files/Kruitwagen_Lucas_CV.pdf
+    url: http://Lkruitwagen.github.io/files/Kruitwagen_Lucas_CV.pdf  
+    align: right
+    float: right 
+    
+  - title: "<span style=\"color:#E97F35\"><b>OxEO</b></span>"
+    url: http://www.oxfordeo.com
+    align: right
+    float: right
+    
+
