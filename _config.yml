@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Lucas Kruitwagen"
+title                    : "Lucas Kruitwagen"
 title_separator          : "-"
-name                     : &name "Dr Lucas Kruitwagen"
+name                     : &name "Lucas Kruitwagen"
 description              : &description "Climate Change & AI"
 url                      : https://Lkruitwagen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" #http://127.0.0.1:4000 #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucas Kruitwagen"
+  name             : "Dr Lucas Kruitwagen"
   avatar           : "LK_B&W_square.png"
-  bio              : "Climate Change & AI Applications in Sustainable Finance"
+  bio              : "Climate Change & AI"
   location         : "London, UK"
   employer         :
   pubmed           : 
