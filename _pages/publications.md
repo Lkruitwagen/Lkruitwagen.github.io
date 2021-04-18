@@ -13,7 +13,7 @@ author_profile: true
 
 -----
 ### Aerosol effects on mesoscale structures in marine boundary layer clouds
-##### Christensen, M., Jones, W., Kusner, M., Kruitwagen, L., Pearce, T., Saeongkyongam, S., & Watson-Paris, D. (2020) _Frontier Development Lab Europe 2020: Clouds /& Aerosols Technical Memorandum._
+##### Christensen, M., Jones, W., Kusner, M., Kruitwagen, L., Pearce, T., Saeongkyongam, S., & Watson-Paris, D. (2020) _Frontier Development Lab Europe 2020: Clouds & Aerosols Technical Memorandum._
 
 Using machine learning to isolate the causal impacts of aerosols on marine boundary layer clouds, the largest source of uncertainty in long-term climate modelling. 
 
@@ -25,7 +25,7 @@ Using machine learning to isolate the causal impacts of aerosols on marine bound
 
 A general-purpose Sentinel-1 and Sentinel-2 computer vision model aiming to unlock an explosion of earth observation use cases for public good. A Copernicus Masters' Finalist for the Digital Twin Earth Challenge.
 
-[ArXiv](https://arxiv.org/abs/2102.06260)[NeurIPS Climate Change AI 2020](https://www.climatechange.ai/papers/neurips2020/84)[Code](https://github.com/Lkruitwagen/deepsentinel)
+[ArXiv](https://arxiv.org/abs/2102.06260) [NeurIPS Climate Change AI 2020](https://www.climatechange.ai/papers/neurips2020/84) [Code](https://github.com/Lkruitwagen/deepsentinel)
 
 -----
 ### Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains
@@ -33,7 +33,7 @@ A general-purpose Sentinel-1 and Sentinel-2 computer vision model aiming to unlo
 
 A complex network arrangement of the global fossil fuel supply chain and accompanying flow and community detection analysis. Built using over 4mn infrastructure assets drawn from open data. A collaboration with Quantum Black.
 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783412)[Blog Post](https://medium.com/quantumblack/constructing-a-global-energy-supply-network-for-the-transition-toward-a-post-carbon-society-9d0726980af4)[Code](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783412) [Blog Post](https://medium.com/quantumblack/constructing-a-global-energy-supply-network-for-the-transition-toward-a-post-carbon-society-9d0726980af4) [Code](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 
 -----
 ### A global inventory of utility-scale solar photovoltaic generating units
