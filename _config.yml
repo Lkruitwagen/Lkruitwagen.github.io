@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Kruitwagen"
+title                    : "Dr Lucas Kruitwagen"
 title_separator          : "-"
 name                     : &name "Dr Lucas Kruitwagen"
-description              : &description "Climate Change & AI Applications in Sustainable Finance"
+description              : &description "Climate Change & AI"
 url                      : https://Lkruitwagen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" #http://127.0.0.1:4000 #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lkruitwagen.github.io"

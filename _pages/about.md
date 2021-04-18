@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Climate Change & AI Researcher with Applications in Sustainable Finance"
+title: "Climate Change & AI Applications for Sustainable Finance"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
