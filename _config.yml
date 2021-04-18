@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Lucas Kruitwagen"
 title_separator          : "-"
-name                     : &name "Lucas Kruitwagen"
-description              : &description "ML Applications for Sustainable Finance"
+name                     : &name "Dr Lucas Kruitwagen"
+description              : &description "Climate Change & AI Applications in Sustainable Finance"
 url                      : https://Lkruitwagen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" #http://127.0.0.1:4000 #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lkruitwagen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lucas Kruitwagen"
   avatar           : "LK_B&W_square.png"
-  bio              : "ML Applications for Sustainable Finance"
+  bio              : "Climate Change & AI Applications in Sustainable Finance"
   location         : "London, UK"
   employer         :
   pubmed           : 

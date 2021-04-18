@@ -49,7 +49,7 @@ author_profile: true
 ##### _International Conference on Fossil Fuel Supply and Climate Policy_, 26-27 September 2016, Queen's College, Oxford, UK.
 
 -----
-### Game Theory and Corporate Governance: Conditions for effective stewardship of companies subkect to climate change risks
+### Game Theory and Corporate Governance: Conditions for effective stewardship of companies subject to climate change risks
 ##### _1st Global Conference on Stranded Assets and the Environment_, 24-25 September 2015, Queen's College, Oxford, UK.
 
 -----
