@@ -12,36 +12,44 @@ author_profile: true
 {% include base_path %}
 
 -----
-### Aerosol effects on mesoscale structures in marine boundary layer clouds
-##### Christensen, M., Jones, W., Kusner, M., Kruitwagen, L., Pearce, T., Saeongkyongam, S., & Watson-Paris, D. (2020) _Frontier Development Lab Europe 2020: Clouds & Aerosols Technical Memorandum._
+### A techno-economic and financial analysis of a Gulf-India undersea electricity interconnector 
+##### Shivakumar, A., Weinstein, M., Kruitwagen, L., Spiteri, S., Arderne, C., Almulla, , Y., Usher, W., Howells, M., & Hawkes, A.  (2021) _Climate Compatible Growth Programme, Working Paper_
 
-Using machine learning to isolate the causal impacts of aerosols on marine boundary layer clouds, the largest source of uncertainty in long-term climate modelling. 
+An independent combined techno-economic and financial analysis of an electricity interconnector between Gulf Cooperation Council (GCC) countries and India.
 
-[Tech Memo](http://Lkruitwagen.github.io/files/Clouds_Tech_Memo_FDLEUR2020.pdf)
+[Decision Maker's Dashboard](https://guidash.herokuapp.com/dashboard/)
 
 -----
-### DeepSentinel: a general-purpose Sentinel-1 and -2 computer vision model
-##### Kruitwagen, L.
+### A global inventory of utility-scale solar photovoltaic generating units
+##### Kruitwagen, L., Story, K., Friedrich, J., Byers, L., Skillman, S., & Hepburn, C. (2021) _In Review_
 
-A general-purpose Sentinel-1 and Sentinel-2 computer vision model aiming to unlock an explosion of earth observation use cases for public good. A Copernicus Masters' Finalist for the Digital Twin Earth Challenge.
+A globally-complete inventory of solar PV generating stations built using machine learning and remote sensing. A collaboration with DescartesLabs and the World Resources Institute, presented at NeurIPS Climate Change AI workshop 2019.
 
-[ArXiv](https://arxiv.org/abs/2102.06260) [NeurIPS Climate Change AI 2020](https://www.climatechange.ai/papers/neurips2020/84) [Code](https://github.com/Lkruitwagen/deepsentinel)
+[Presentation](https://docs.google.com/presentation/d/14r68rCsGERPc_r6Io-_c0zu-EQKiDhV4Sin2jBsgYxE/edit?usp=sharing) [GRASFI 2019](https://www.susfinalliance2019.org/conference-videos?wix-vod-video-id=ade617aad2364116b4c7f357ff90ef27&wix-vod-comp-id=comp-k266doyq) [NeurIPS Climate Change AI 2019](https://slideslive.com/38922408/a-global-inventory-of-utilityscale-solar-photovoltaic-power-stations)
 
 -----
 ### Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains
-##### Kruitwagen, L., Klaas, J., Lakeh, A. B., & Fan, J.
+##### Kruitwagen, L., Klaas, J., Lakeh, A. B., & Fan, J. (2021) _Institute for New Economic Thinking Working Paper_
 
 A complex network arrangement of the global fossil fuel supply chain and accompanying flow and community detection analysis. Built using over 4mn infrastructure assets drawn from open data. A collaboration with Quantum Black.
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783412) [Blog Post](https://medium.com/quantumblack/constructing-a-global-energy-supply-network-for-the-transition-toward-a-post-carbon-society-9d0726980af4) [Code](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 
 -----
-### A global inventory of utility-scale solar photovoltaic generating units
-##### Kruitwagen, L., Story, K., Friedrich, J., Byers, L., Skillman, S., & Hepburn, C. 
+### DeepSentinel: a general-purpose Sentinel-1 and -2 computer vision model
+##### Kruitwagen, L. (2020) _NeurIPS Climate Change AI Workshop Paper_
 
-A globally-complete inventory of solar PV generating stations built using machine learning and remote sensing. A collaboration with DescartesLabs and the World Resources Institute, presented at NeurIPS Climate Change AI workshop 2019.
+A general-purpose Sentinel-1 and Sentinel-2 computer vision model aiming to unlock an explosion of earth observation use cases for public good. A Copernicus Masters' Finalist for the Digital Twin Earth Challenge.
 
-[Presentation](https://docs.google.com/presentation/d/14r68rCsGERPc_r6Io-_c0zu-EQKiDhV4Sin2jBsgYxE/edit?usp=sharing) [GRASFI 2019](https://www.susfinalliance2019.org/conference-videos?wix-vod-video-id=ade617aad2364116b4c7f357ff90ef27&wix-vod-comp-id=comp-k266doyq) [NeurIPS Climate Change AI 2019](https://slideslive.com/38922408/a-global-inventory-of-utilityscale-solar-photovoltaic-power-stations)
+[ArXiv](https://arxiv.org/abs/2102.06260) [NeurIPS Climate Change AI 2020](https://www.climatechange.ai/papers/neurips2020/84) [Code](https://github.com/Lkruitwagen/deepsentinel)
+
+-----
+### Aerosol effects on mesoscale structures in marine boundary layer clouds
+##### Christensen, M., Jones, W., Kusner, M., Kruitwagen, L., Pearce, T., Saeongkyongam, S., & Watson-Paris, D. (2020) _Frontier Development Lab Europe 2020: Clouds & Aerosols Technical Memorandum._
+
+Using machine learning to isolate the causal impacts of aerosols on marine boundary layer clouds, the largest source of uncertainty in long-term climate modelling. 
+
+[Tech Memo](http://Lkruitwagen.github.io/files/Clouds_Tech_Memo_FDLEUR2020.pdf)
 
 -----
 ### Power sector asset networks: determinants of the diffusion of renewables 2007 through 2017
